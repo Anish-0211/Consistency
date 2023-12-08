@@ -7,7 +7,9 @@ List1 = [1, 2, 'GFG', 3]
 # adding list
 Add = List1+List2
 
-
+# Tuple
+Tuple = tuple(List2)
+print(Tuple)
 # printing list
 print(Add)
 
@@ -27,3 +29,4 @@ if z in list3:
     print("found")
 else:
     print("not found")
+
